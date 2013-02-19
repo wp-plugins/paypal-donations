@@ -3,7 +3,7 @@ Contributors: artstorm
 Tags: paypal, donation, shortcode, widget, donate, button, sidebar
 Requires at least: 2.8
 Tested up to: 3.5.1
-Stable tag: 1.6
+Stable tag: 1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +35,9 @@ For complete usage instructions see: [PayPal Donations](http://wpstorm.net/wordp
 
 See the [Changelog](http://wordpress.org/extend/plugins/paypal-donations/changelog/) for what's new. Available [Translations](http://wpstorm.net/wordpress-plugins/paypal-donations/#translations).
 
+= Contribute =
+
+The plugin is available on [GitHub](https://github.com/artstorm/paypal-donations), so developers feel free to fork the repository, make any updates and then send me a pull request.
 
 == Installation ==
 
@@ -61,7 +64,8 @@ Please visit [PayPal Donations' Comments](http://wpstorm.net/wordpress-plugins/p
 
 == Changelog ==
 
-= Version @DEV_HEAD - @BUILD_DATE =
+= Version 1.7 - 19 feb 2013 =
+ * Moved the development to [GitHub](https://github.com/artstorm/paypal-donations). 
  * Refactored code to comply with the PSR-2 standard.
  * Bumped miniumum PHP version to 5.2.4.
  * Bumped minimum required WordPress version to WordPress 2.8.
