@@ -4,7 +4,7 @@ Donate link: https://www.tipsandtricks-hq.com/paypal-donations-widgets-plugin
 Tags: paypal, donation, shortcode, widget, donate, button, sidebar, paypal donation
 Requires at least: 3.0
 Tested up to: 4.0
-Stable tag: 1.8.5
+Stable tag: 1.8.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -87,6 +87,10 @@ for questions, answers, support and feature requests.
 
 
 == Changelog ==
+
+= Version 1.8.6 =
+ * WordPress 4.0 compatibility
+ * Updated documentation page links
 
 = Version 1.8.5 - 21 Sep 2014 =
  * Add support for PayPal Sandbox.
