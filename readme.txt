@@ -1,7 +1,7 @@
 === PayPal Donations ===
-Contributors: artstorm
-Donate link: http://johansteen.se/donate/
-Tags: paypal, donation, shortcode, widget, donate, button, sidebar
+Contributors: Tips and Tricks HQ, artstorm
+Donate link: https://www.tipsandtricks-hq.com/paypal-donations-widgets-plugin
+Tags: paypal, donation, shortcode, widget, donate, button, sidebar, paypal donation
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.8.5
@@ -30,14 +30,32 @@ Which is the simplest option, and uses all default and optional settings. If you
 
 This donation plugin generates valid XHTML Transitional and Strict code.
 
+= Translations =
+
+The following language translations are already available in the plugin:
+
+* Albanian (sq_AL)
+* Danish (da_DK)
+* Dutch (nl_NL)
+* French (fr_FR)
+* German (de_DE)
+* Hebrew (he_IL)
+* Italian (it_IT)
+* Lithuanian (lt_LT)
+* Malay – Bahasa Melayu (ms_MY)
+* Norwegian bokmål
+* Romanian (ro_RO)
+* Russian (ru_RU)
+* Spanish (es_ES)
+* Swedish (sv_SE)
+* Turkish (tr_TR)
+
 = Related Links =
 
-* [Documentation](http://johansteen.se/code/paypal-donations/
+* [Documentation](https://www.tipsandtricks-hq.com/paypal-donations-widgets-plugin
   "Usage instructions")
 * [Support Forum](http://wordpress.org/support/plugin/paypal-donations
   "Use this for support and feature requests")
-* [GitHub](https://github.com/artstorm/paypal-donations
-  "Develop and contribute your code or report bugs")
 
 
 == Installation ==
@@ -61,18 +79,6 @@ This donation plugin generates valid XHTML Transitional and Strict code.
 
 Please visit the [Support Forum](http://wordpress.org/support/plugin/paypal-donations "Use this for support and feature requests")
 for questions, answers, support and feature requests.
-
-= Where can I send bug reports? =
-
-Please visit the GitHub repository for [PayPal Donations](https://github.com/artstorm/paypal-donations)
-and open an [issue](https://github.com/artstorm/paypal-donations/issues).
-
-= How can I contribute to the plugin? =
-
-If you want to contribute improved code or new features for the plugin. Please
-open a pull request at the [PayPal Donations GitHub repository](https://github.com/artstorm/paypal-donations).
-Contributions are appreciated and encouraged.
-
 
 == Screenshots ==
 
