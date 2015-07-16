@@ -87,7 +87,6 @@ for questions, answers, support and feature requests.
 
 
 == Changelog ==
-
 = version 1.9.0 =
 * Added a new filter that will allow tweaks to localize the button image on a multi-lingual website.
 * Added PayPal IPN validation option.
